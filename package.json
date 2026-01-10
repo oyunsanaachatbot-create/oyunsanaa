@@ -18,8 +18,6 @@
     "test": "export PLAYWRIGHT=True && pnpm exec playwright test"
   },
   "dependencies": {
-    "@ai-sdk/gateway": "2.0.0-beta.85",
-    "@ai-sdk/provider": "3.0.0-beta.27",
     "@ai-sdk/react": "3.0.0-beta.162",
     "@codemirror/lang-javascript": "^6.2.2",
     "@codemirror/lang-python": "^6.1.6",
@@ -87,7 +85,6 @@
     "react-resizable-panels": "^2.1.7",
     "react-syntax-highlighter": "^15.6.6",
     "redis": "^5.0.0",
-    "resumable-stream": "^2.0.0",
     "server-only": "^0.0.1",
     "shiki": "^3.14.0",
     "sonner": "^1.5.0",
